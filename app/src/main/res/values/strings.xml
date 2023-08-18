@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="sentence">A combination of words that makes a complete sense is called a sentence.</string>
+    <string name="longsentence">Shopping is a popular activity enjoyed by people all around the world. Whether it is in bustling city centers, modern malls, or quaint local markets, shopping provides individuals with the opportunity to explore a wide range of products and discover the latest trends. From clothing and accessories to electronics, home decor, and gourmet foods, the options are diverse and cater to various tastes and preferences. It allows them to compare different brands, styles, and prices before making decisions.</string>
+</resources>
