@@ -9,3 +9,7 @@ Bu uygulama jetpack compose kullanımına örnek olması amacıyla geliştirilmi
   
 # Project Display Video <p> 
 
+
+
+https://github.com/oykuyildirim/Jetpack-Compose-App/assets/37236494/3f8f0a6a-0e6b-4a04-87cc-07c30e1746c0
+
